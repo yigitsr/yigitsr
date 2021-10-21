@@ -2,8 +2,7 @@
 #### Frontend Web Developer
 ![Frontend Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I love making websites and everything related to WWW.
-
+I love making websites and everything related to web.
 Skills: HTML / CSS / JS / PHP / JQUERY / GIT
 
 - 🔭 I’m currently working on this page. 
