@@ -2,7 +2,7 @@
 #### Frontend Web Developer
 I love making websites and everything related to WWW.
 
-Tech: HTML / CSS / JS / PHP / JQUERY / GIT / RESPONSIVE DESIGN
+Tech: HTML / CSS / JS / PHP / JQUERY / GIT / RESPONSIVE DESIGN / ADOBE XD / 
 
 - 🔭 I’m currently working on this page. 
 
