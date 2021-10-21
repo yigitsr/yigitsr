@@ -1,8 +1,8 @@
-### Hi there 👋, this is Yigit
+### This is Yigit
 #### Frontend Web Developer
 I love making websites and everything related to WWW.
 
-Skills: HTML / CSS / JS / PHP / JQUERY / GIT
+Tech: HTML / CSS / JS / PHP / JQUERY / GIT / RESPONSIVE DESIGN
 
 - 🔭 I’m currently working on this page. 
 
