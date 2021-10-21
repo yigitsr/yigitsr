@@ -1,6 +1,6 @@
 ### This is Yigit
 #### Frontend Web Developer
-I love making websites and everything related to WWW.
+I love making websites and everything related to web.
 
 Tech: HTML / CSS / JS / PHP / JQUERY / GIT / RESPONSIVE DESIGN / ADOBE XD / 
 
