@@ -8,6 +8,7 @@ Tech: HTML / CSS / JS / JQUERY / SASS / GIT / RESPONSIVE DESIGN / ADOBE XD / LUN
 [![Gists Badge](https://badges.pufler.dev/gists/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/yigitsr/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 
 
 
