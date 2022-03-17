@@ -9,7 +9,7 @@ Tech: HTML / CSS / JS / JQUERY / SASS / GIT / RESPONSIVE DESIGN / ADOBE XD / LUN
 [![Visits Badge](https://badges.pufler.dev/visits/yigitsr/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
-
+[<img src ="https://img.shields.io/badge/Website-ys-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://yigits.online)
 
 
 
@@ -19,7 +19,3 @@ Tech: HTML / CSS / JS / JQUERY / SASS / GIT / RESPONSIVE DESIGN / ADOBE XD / LUN
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yigitsr&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yigitsr" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yigitsr&theme=highcontrast&hide_border=true" alt="yigitsr" />
 </p>
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yigits.online)
