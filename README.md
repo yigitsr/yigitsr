@@ -5,7 +5,7 @@ I love making websites and everything related to web.
 Tech: HTML / CSS / JS / JQUERY / SASS / GIT / RESPONSIVE DESIGN / ADOBE XD / UI / UX / SEO  
 
 [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/yigitsr/git-badges)](https://github.com/yigitsr?tab=repositories)
+[![Visits Badge](https://badges.pufler.dev/visits/yigitsr/git-badges)](https://yigits.online)
 [![Years Badge](https://badges.pufler.dev/years/yigitsr)](https://badges.pufler.dev)
 
 
