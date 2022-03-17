@@ -4,6 +4,8 @@ I love making websites and everything related to web.
 
 Tech: HTML / CSS / JS / JQUERY / SASS / GIT / RESPONSIVE DESIGN / ADOBE XD / UI / UX / SEO  
 
+[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+
 
 ## Stats📈
 <p align="center">
