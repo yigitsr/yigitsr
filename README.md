@@ -1,8 +1,8 @@
 ### This is Yigit
-#### Frontend Web Developer
+#### UI/UX Designer - Frontend Web Developer
 I love making websites and everything related to web.
 
-Tech: HTML / CSS / JS / JQUERY / SASS / GIT / RESPONSIVE DESIGN / ADOBE XD / LUNACY / UI / UX / SEO  
+Tech: FIGMA / ADOBE XD / LUNACY / UI / UX / HTML / CSS / JS / JQUERY / SASS / GIT / RESPONSIVE DESIGN / SEO  
 
 [![Repos Badge](https://badges.pufler.dev/repos/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
