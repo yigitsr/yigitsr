@@ -8,7 +8,6 @@ Tech: FIGMA / ADOBE XD / LUNACY / UI / UX / HTML / CSS / JS / JQUERY / SASS / GI
 [![Gists Badge](https://badges.pufler.dev/gists/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/yigitsr/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [<img src ="https://img.shields.io/badge/Website-ys-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://yigits.online)
 
 
