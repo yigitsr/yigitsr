@@ -2,13 +2,13 @@
 #### UI/UX Designer - Frontend Web Developer
 I love making websites and everything related to web.
 
-Tech: FIGMA / ADOBE XD / LUNACY / UI / UX / HTML / CSS / JS / JQUERY / SASS / GIT / RESPONSIVE DESIGN / SEO  
+Tech: FIGMA / ADOBE XD / UI / UX / DESING / HTML / CSS / JS / JQUERY / SASS / RESPONSIVE DESIGN / SEO  
 
 [![Repos Badge](https://badges.pufler.dev/repos/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/yigitsr/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/yigitsr?style=for-the-badge)](https://badges.pufler.dev)
-[<img src ="https://img.shields.io/badge/Website-ys-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://yigits.online)
+[<img src ="https://img.shields.io/badge/Website-ys-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://yigits.netlify.app)
 
 
 
