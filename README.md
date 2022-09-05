@@ -14,5 +14,3 @@ Tech: FIGMA / ADOBE XD / UI / UX / DESIGN / HTML / CSS / JS / JQUERY / SASS / RE
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yigitsr&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yigitsr" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yigitsr&theme=highcontrast&hide_border=true" alt="yigitsr" />
 </p>
-
-https://www.duslersahnesiankara.com
