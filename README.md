@@ -1,5 +1,5 @@
 ### This is Yigit
-#### UI/UX Designer - Frontend Web Developer
+#### Software Developer - UI/UX Designer - Frontend Web Developer
 I love making websites and everything related to web.
 
 Tech: FIGMA / ADOBE XD / UI / UX / DESIGN / HTML / CSS / JS / JQUERY / SASS / RESPONSIVE DESIGN / SEO  
