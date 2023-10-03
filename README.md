@@ -4,7 +4,7 @@ I love making websites and everything related to web.
 
 Tech: FIGMA / UI / UX / DESIGN / HTML / CSS / JS / JQUERY / SASS / RESPONSIVE DESIGN / SEO  
 
-[<img src ="https://img.shields.io/badge/Website-ys-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://yigitsereflioglu.online)
+[<img src ="https://img.shields.io/badge/Website-ys-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://yigitsereflioglu.dev)
 
 
 
