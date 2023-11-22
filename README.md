@@ -2,7 +2,7 @@
 #### Software Developer - UI/UX Designer - Frontend Web Developer
 I love making websites and everything related to web.
 
-Tech: FIGMA / UI / UX / DESIGN / HTML5 / CSS3 / JS / JQUERY / SASS / BOOTSTRAP / TAILWIND / APACHE CORDOVA / FRAMEWORK7 / COMPONENT BASED FRONTEND ARCHITECTURE / RESPONSIVE DESIGN / SEO
+Tech: FIGMA / UI / UX / DESIGN / HTML5 / CSS3 / JS / JQUERY / SASS / BOOTSTRAP / TAILWIND / APACHE CORDOVA / FRAMEWORK7 / COMPONENT BASED FRONTEND ARCHITECTURE / RESPONSIVE DESIGN / SEO \
 Tools: GITHUB / VS CODE / FIGMA / PHOTOSHOP / ILLUSTRATOR / PREMIERE PRO / CANVA / NOTION / NETLIFY 
 
 [<img src ="https://img.shields.io/badge/Website-ys-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://yigitsereflioglu.dev)
