@@ -3,6 +3,7 @@
 I love making websites and everything related to web.
 
 Tech: Figma - UI - UX - Design - HTML5 - CSS3 - Javascript - jQuery - Sass - Bootstrap - Tailwind - Apache Cordova - Framework7 - Component Based Frontend Architecture - Responsive Design - SEO \
+-
 Tools: GitHub - Vs Code - Figma - Photoshop - Illustrator - Premiere Pro - Canva - Notion - Netlify 
 
 [<img src ="https://img.shields.io/badge/Website-ys-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://yigitsereflioglu.dev)
