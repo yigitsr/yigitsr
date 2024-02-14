@@ -1,5 +1,5 @@
 ### This is Yigit
-#### Software Developer - UI/UX Designer - Frontend Web Developer
+#### Software Developer  - Frontend Web Developer - UI/UX Designer
 I love making websites and everything related to web.
 
 Tech: Figma - UI - UX - Design - HTML5 - CSS3 - Javascript - jQuery - Sass - Bootstrap - Tailwind - Apache Cordova - Framework7 - Component Based Frontend Architecture - Responsive Design - SEO \
