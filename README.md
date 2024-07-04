@@ -15,3 +15,11 @@ Tools: GitHub - Vs Code - Figma - Photoshop - Illustrator - Premiere Pro - Canva
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yigitsr&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yigitsr" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yigitsr&theme=highcontrast&hide_border=true" alt="yigitsr" />
 </p>
+
+
+### test
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{yigitsr}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
+<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
