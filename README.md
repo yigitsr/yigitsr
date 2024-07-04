@@ -22,3 +22,5 @@ Tools: GitHub - Vs Code - Figma - Photoshop - Illustrator - Premiere Pro - Canva
 <p align="center"><img src="https://profile-counter.glitch.me/{yigitsr}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
 <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
+
+[![GitHub followers](https://img.shields.io/github/followers/yigitsr.svg?style=social&label=Followers)](https://github.com/yigitsr?tab=followers)
