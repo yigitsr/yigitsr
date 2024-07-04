@@ -17,7 +17,6 @@ Tools: GitHub - Vs Code - Figma - Photoshop - Illustrator - Premiere Pro - Canva
 </p>
 
 
-### test
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{yigitsr}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
